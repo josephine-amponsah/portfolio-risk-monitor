@@ -12,8 +12,6 @@ An early-stage collection of lightweight tools for monitoring and analysing port
 - `modules/VaR_monitor.py`
 - `modules/volatility.py`
 
-(This README lists files present in the repository; no assumptions are made about their internal implementations.)
-
 ## Next steps
 
 - **VaR method options:** Implement and compare `Historical` and `Delta-normal` VaR approaches.
