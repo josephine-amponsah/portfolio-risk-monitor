@@ -18,4 +18,4 @@ An early-stage collection of lightweight tools for monitoring and analysing port
 - **Stress & scenario testing:** Add stress-testing and scenario-analysis workflows for extreme market conditions.
 - **Options volatility and backtesting:** Implement option-implied/realized volatility models and backtest option strategies and volatility forecasts.
 
-If you'd like, I can scaffold individual tasks for any of the above items.
+
